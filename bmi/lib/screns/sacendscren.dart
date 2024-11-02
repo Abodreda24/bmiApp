@@ -57,7 +57,7 @@ class sacends extends StatelessWidget {
                                   color: Color(0xff0C0C0C), fontSize: 90),
                             ),
                             Text(
-                              "you are verry fat",
+                              ".",
                               style: TextStyle(color: Color(0xff0C0C0C),fontSize: 25),
                             )
                           ],
